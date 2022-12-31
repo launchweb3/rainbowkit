@@ -24,7 +24,7 @@ export default function Home() {
           <a href="https://www.rainbowkit.com/">RainbowKit!</a>
         </h1>
         <h2 className={styles.title}>
-        Template on <a href="">Github</a> 🌈{" "}
+        Template on <a href="https://github.com/launchweb3/rainbowkit/generate">Github</a> 🌈{" "}
         </h2>
         <h3> Maintained by LaunchWeb3</h3>
 
